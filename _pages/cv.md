@@ -39,7 +39,7 @@ Publications
 ======
 **to be updated soon**
 
-Posters and Oral Presentations
+Posters and Talks
 ======
 **to be updated soon**
 
@@ -68,26 +68,62 @@ with emphasis on quantum mechanics, chemical thermodynamics, analytical chemistr
 <span style="display: inline-block; width: 100%;">*Mar 2022 - May 2023 | Daejeon, Republic of Korea*</span>
 <span style="display: inline-block; width: 100%;">Supporting teaching activities in Advanced English Listening and Intermediate English Listening and Speaking classes. Main activities included grading students’ presentations, giving feedback on their works, and supervising in-class activities.</span>
 
-* **High Council Member** @ [Republican Board of Problem Authors in Olympiad Chemistry](https://qazcho.kz/)
+* **High Council Member** @ *[Republican Board of Problem Authors in Olympiad Chemistry](https://qazcho.kz/) (non-profit)*
 <span style="display: inline-block; width: 100%;">*since Nov 2021*</span>
 <span style="display: inline-block; width: 100%;">Serving as a Jury member and a Problem Writer for Kazakhstan National Olympiads, as well as a Coach
 for the National Team of Kazakhstan at the International Chemistry Olympiads.</span>
 
-* **Head of Science Olympiad Projects** @ *[Beyond Curriculum Public Foundation](https://bc-pf.org/)*
+* **Head of Science Olympiad Projects** @ *[Beyond Curriculum Public Foundation](https://bc-pf.org/) (non-profit)*
 <span style="display: inline-block; width: 100%;">*May 2018 - Dec 2021 | Kazakhstan*</span>
 <span style="display: inline-block; width: 100%;"> Organizing over 10 online Olympiads and Scientific Fests for High-Schoolers in Kazakhstan.
 Wrote several blodposts and conducted seminars for popularizing Chemistry amongst Middle and High Schools students.</span>
 
 Skills
 ======
-### Common
-- Microsoft Office (Word, PowerPoint, Excel), LaTeX, Keynote
-### Programming
-- Linux, Python (NumPy, Pandas, PyTorch, Rdkit, Matplotlib, psycopg2), R (tidyverse, ggplot2), PostgreSQL, MatLab, Git
-### Bioinformatics
-- BLAST, Cytoscape, MEGA, DAVID
-### Chemistry-specific Languages
-- ChemDraw, MastReNova, Organic Synthesis, NMR, FT-IR
-### Soft Skills
-- Russian (Native), English (Fluent), Kazakh (Fluent), Korean (Intermediate)
-- Event Organization, Project Management
+* **Technical Skills**
+   * **Programming Languages**: Python, R, MATLAB
+   * **Python Libraries/Frameworks**: PyTorch, TensorFlow, NumPy, Pandas, RDKit, Matplotlib
+   * **Data Management**: PostgreSQL
+   * **Other Tools**: Git, Linux, PyMOL, ChemDraw, LaTeX, Adobe Illustrator, Microsoft Office
+   * **Experimental Chemistry**: Organic Synthesis, NMR, FT-IR, MastReNova
+* **Languages**
+<span style="display: inline-block; width: 100%;"><span class="tooltip">English<span class="tooltiptext">Fluent</span></span>, 
+<span class="tooltip">Russian<span class="tooltiptext">Mother tongue</span></span>, 
+<span class="tooltip">Korean<span class="tooltiptext">TOPIK 5급</span></span>, 
+<span class="tooltip">Kazakh<span class="tooltiptext">Received some parts of secondary education in Kazakh</span></span></span>
+* **Soft skills**
+<span style="display: inline-block; width: 100%;"><span class="tooltip">Event Organization<span class="tooltiptext">Through work at a non-profit fund and as a lab job @ Young Lab</span></span>, 
+<span class="tooltip">Mentoring<span class="tooltiptext">Through guiding an intern project</span></span>,
+<span class="tooltip">Project Leading<span class="tooltiptext">Through work at a non-profit fund</span></span>
+
+
+<style>
+.tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  border-radius: 5px;
+  padding: 5px;
+  position: absolute;
+  z-index: 1;
+  bottom: 125%;
+  left: 50%;
+  margin-left: -60px;
+  opacity: 0;
+  transition: opacity 0.3s;
+  font-size: 12px;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+  opacity: 0.9;
+}
+</style>
