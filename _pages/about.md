@@ -1,49 +1,95 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+# title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Hello, I'm Daniil ..... short introduction
 
-A data-driven personal website
+
+
+Education
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+* **MS in Bio&Brain Engineering**  
+  <span style="display: inline-block; width: 100%;">Advisor: Dr. Young-suk Lee</span>  
+  <span style="display: inline-block; width: 100%;">Korea Advanced Institute of Science & Technology, 2025 (*expected*)</span>
+* **BSc, cum laude, in Chemistry**  
+  <span style="display: inline-block; width: 100%;">Korea Advanced Institute of Science & Technology, 2023</span>
+* **BSc, cum laude, in Bio&Brain Engineering**  
+  <span style="display: inline-block; width: 100%;">Korea Advanced Institute of Science & Technology, 2023</span>
 
-Getting started
+
+Research Experience
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+* **Graduate Researcher** @ *[Laboratory of Quantitative and Computational Biology](https://young.kaist.ac.kr/), KAIST*
+<span style="display: inline-block; width: 100%;">Principal Investigator: Dr. Young-suk Lee</span>
+<span style="display: inline-block; width: 100%;">*Aug 2023 - Present | Daejeon, Republic of Korea*</span>
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+* **Undergraduate Intern** @ *[Laboratory of Quantitative and Computational Biology](https://young.kaist.ac.kr/), KAIST*
+<span style="display: inline-block; width: 100%;">Principal Investigator: Dr. Young-suk Lee</span>
+<span style="display: inline-block; width: 100%;">*Jul 2022 - Aug 2023 | Daejeon, Republic of Korea*</span>
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+* **Undergraduate Intern** @ *[Center for Cell-Encapsulation Research](http://cisgroup.kaist.ac.kr/index.html), KAIST*
+<span style="display: inline-block; width: 100%;">Principal Investigator: Dr. Insung S. Choi</span>
+<span style="display: inline-block; width: 100%;">*Feb 2021 - Dec 2021 | Daejeon, Republic of Korea*</span>
 
-**Markdown generator**
+Publications
+======
+**to be updated soon**
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+Posters and Oral Presentations
+======
+**to be updated soon**
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+Work Experience and Volunteering
+======
+* **Bio-Data Structures Teaching Assistant** @ *KAIST Department of Bio&Brain Engineering* 
+<span style="display: inline-block; width: 100%;">*Fall 2023, Fall 2024 | Daejeon, Republic of Korea*</span>
+<span style="display: inline-block; width: 100%;">Conducting study sessions with introduction to Python, Data Structures, and SSH. Assisting in
+grading programming assignments and final project submissions.</span>
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+* **Programming for Engineering Biology Teaching Assistant** @ *KAIST Graduate School of Engineering Biology* 
+<span style="display: inline-block; width: 100%;">*Fall 2024 | Daejeon, Republic of Korea*</span>
+<span style="display: inline-block; width: 100%;">Conducting study sessions with introduction to Python and Data Structures. Assisting in
+grading programming assignments.</span>
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+* **Bio-Data Engineering Teaching Assistant** @ *KAIST Department of Bio&Brain Engineering* 
+<span style="display: inline-block; width: 100%;">*Spring 2024 | Daejeon, Republic of Korea*</span>
+<span style="display: inline-block; width: 100%;">Assisting in quiz preparation and grading.</span>
+
+* **Academic Coach and Tutor** @ *KAIST ISSS and School of Freshmen*
+<span style="display: inline-block; width: 100%;">*Sep 2022 - May 2023 | Daejeon, Republic of Korea*</span>
+<span style="display: inline-block; width: 100%;">Tutoring General Chemistry I and Organic Chemistry II to undergraduate students majoring in Chemistry
+with emphasis on quantum mechanics, chemical thermodynamics, analytical chemistry, pericyclic reactions, and basics of metalorganic chemistry. </span>
+
+* **ESL Teaching Assistant** @ *KAIST School of Humanities and Social Science* 
+<span style="display: inline-block; width: 100%;">*Mar 2022 - May 2023 | Daejeon, Republic of Korea*</span>
+<span style="display: inline-block; width: 100%;">Supporting teaching activities in Advanced English Listening and Intermediate English Listening and Speaking classes. Main activities included grading students’ presentations, giving feedback on their works, and supervising in-class activities.</span>
+
+* **High Council Member** @ [Republican Board of Problem Authors in Olympiad Chemistry](https://qazcho.kz/)
+<span style="display: inline-block; width: 100%;">*since Nov 2021*</span>
+<span style="display: inline-block; width: 100%;">Serving as a Jury member and a Problem Writer for Kazakhstan National Olympiads, as well as a Coach
+for the National Team of Kazakhstan at the International Chemistry Olympiads.</span>
+
+* **Head of Science Olympiad Projects** @ *[Beyond Curriculum Public Foundation](https://bc-pf.org/)*
+<span style="display: inline-block; width: 100%;">*May 2018 - Dec 2021 | Kazakhstan*</span>
+<span style="display: inline-block; width: 100%;"> Organizing over 10 online Olympiads and Scientific Fests for High-Schoolers in Kazakhstan.
+Wrote several blodposts and conducted seminars for popularizing Chemistry amongst Middle and High Schools students.</span>
+
+Skills
+======
+### Common
+- Microsoft Office (Word, PowerPoint, Excel), LaTeX, Keynote
+### Programming
+- Linux, Python (NumPy, Pandas, PyTorch, Rdkit, Matplotlib, psycopg2), R (tidyverse, ggplot2), PostgreSQL, MatLab, Git
+### Bioinformatics
+- BLAST, Cytoscape, MEGA, DAVID
+### Chemistry-specific Languages
+- ChemDraw, MastReNova, Organic Synthesis, NMR, FT-IR
+### Soft Skills
+- Russian (Native), English (Fluent), Kazakh (Fluent), Korean (Intermediate)
+- Event Organization, Project Management
