@@ -60,12 +60,12 @@ grading programming assignments.</span>
 <span style="display: inline-block; width: 100%;">Assisting in quiz preparation and grading.</span>
 
 * **Academic Coach and Tutor** @ *KAIST ISSS and School of Freshmen*
-<span style="display: inline-block; width: 100%;">*Sep 2022 - May 2023 | Daejeon, Republic of Korea*</span>
+<span style="display: inline-block; width: 100%;">*Fall 2020 - Spring 2023 | Daejeon, Republic of Korea*</span>
 <span style="display: inline-block; width: 100%;">Tutoring General Chemistry I and Organic Chemistry II to undergraduate students majoring in Chemistry
 with emphasis on quantum mechanics, chemical thermodynamics, analytical chemistry, pericyclic reactions, and basics of metalorganic chemistry. </span>
 
 * **ESL Teaching Assistant** @ *KAIST School of Humanities and Social Science* 
-<span style="display: inline-block; width: 100%;">*Mar 2022 - May 2023 | Daejeon, Republic of Korea*</span>
+<span style="display: inline-block; width: 100%;">*Fall 2022, Spring 2023 | Daejeon, Republic of Korea*</span>
 <span style="display: inline-block; width: 100%;">Supporting teaching activities in Advanced English Listening and Intermediate English Listening and Speaking classes. Main activities included grading students’ presentations, giving feedback on their works, and supervising in-class activities.</span>
 
 * **High Council Member** @ *[Republican Board of Problem Authors in Olympiad Chemistry](https://qazcho.kz/) (non-profit)*
