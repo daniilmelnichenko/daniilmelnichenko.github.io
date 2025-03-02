@@ -36,14 +36,15 @@ Research Experience
 * **Undergraduate Intern** @ *[Center for Cell-Encapsulation Research](http://cisgroup.kaist.ac.kr/index.html), KAIST*
 <span style="display: inline-block; width: 100%;">Principal Investigator: Dr. Insung S. Choi</span>
 <span style="display: inline-block; width: 100%;">*Feb 2021 - Dec 2021 | Daejeon, Republic of Korea*</span>
-
+<!-- 
 Publications
 ======
-**to be updated soon**
+**to be updated soon** -->
 
-Posters and Talks
+Poster Presentations (*equal contributions)
 ======
-**to be updated soon**
+* **Designing protein-interacting RNA sequences using structure-based generative models** @ *RECOMB, Apr 2025 (upcoming)*
+<span style="display: inline-block; width: 100%;">**Daniil Melnichenko\***, Joohyun Cho\*, Jongmin Lim, Dongsup Kim, Young-suk Lee</span>
 
 Work Experience and Volunteering
 ======
