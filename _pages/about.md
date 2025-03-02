@@ -14,13 +14,15 @@ Hello, I'm Daniil ..... short introduction
 Education
 ======
 
-**MS in Bio & Brain Engineering** *(KAIST, exp. 2025)*  
+**MS in Bio&Brain Engineering**  
   <span style="display: inline-block; width: 100%;">Advisor: Dr. Young-suk Lee</span>  
+  <span style="display: inline-block; width: 100%;">Korea Advanced Institute of Science & Technology, 2025 (*expected*)</span>
 
-**BSc in Chemistry, cum laude** *(KAIST, 2023)*  
+**BSc, cum laude, in Chemistry**  
+  <span style="display: inline-block; width: 100%;">Korea Advanced Institute of Science & Technology, 2023</span>
 
-**BSc in Bio & Brain Engineering, cum laude** *(KAIST, 2023)*  
-
+**BSc, cum laude, in Bio&Brain Engineering**  
+  <span style="display: inline-block; width: 100%;">Korea Advanced Institute of Science & Technology, 2023</span>
 
 
 Research Experience
@@ -36,9 +38,11 @@ Research Experience
 **Undergraduate Intern** @ *[Center for Cell-Encapsulation Research](http://cisgroup.kaist.ac.kr/index.html), KAIST*
 <span style="display: inline-block; width: 100%;">Principal Investigator: Dr. Insung S. Choi</span>
 <span style="display: inline-block; width: 100%;">*Feb 2021 - Dec 2021 | Daejeon, Republic of Korea*</span>
+
 <!-- Publications
 ======
 **to be updated soon**
+
 Posters and Talks
 ======
 **to be updated soon** -->
