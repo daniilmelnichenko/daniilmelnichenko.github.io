@@ -15,11 +15,13 @@ Education
 * **MS in Bio&Brain Engineering**  
   <span style="display: inline-block; width: 100%;">Advisor: Dr. Young-suk Lee</span>  
   <span style="display: inline-block; width: 100%;">Korea Advanced Institute of Science & Technology, 2025 (*expected*)</span>
+  <span style="display: inline-block; width: 100%;">Relevant Coursework: Machine Learning for Healthcare, AI in Biomedical Imaging, Generative Model and Unsupervised Learning, Bioelectronic Devices, Introduction to Mathematical Biology</span> 
 * **BSc, cum laude, in Chemistry**  
   <span style="display: inline-block; width: 100%;">Korea Advanced Institute of Science & Technology, 2023</span>
+  <span style="display: inline-block; width: 100%;">Relevant Coursework: Physical Chemistry, Advanced Organic Synthesis, Bioorganic Chemistry, Physical Chemistry I&II, Biochemistry II, AI Chemistry</span> 
 * **BSc, cum laude, in Bio&Brain Engineering**  
   <span style="display: inline-block; width: 100%;">Korea Advanced Institute of Science & Technology, 2023</span>
-
+  <span style="display: inline-block; width: 100%;">Biomedical Statistics and Statistical Learning, Brain Science Fundamentals, Bioinformatics, Bio-Data Structures, Bio-Data Engineering, Bio-Information Processing, Brain-Inspired Machine Intelligence, Computational Neuroscience</span>
 
 Research Experience
 ======
