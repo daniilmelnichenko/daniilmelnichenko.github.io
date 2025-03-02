@@ -14,13 +14,13 @@ Education
 
 **MS in Bio & Brain Engineering** *(KAIST, exp. 2025)*  
   <span style="display: inline-block; width: 100%;">Advisor: Dr. Young-suk Lee</span>  
-  <span style="display: inline-block; width: 100%;">Relevant Coursework: Machine Learning for Healthcare, AI in Biomedical Imaging, Generative Models & Unsupervised Learning, Bioelectronic Devices, Introduction to Mathematical Biology</span>  
+  <span style="display: inline-block; width: 100%; font-size: 0.8em;">Relevant Coursework: Machine Learning for Healthcare, AI in Biomedical Imaging, Generative Models & Unsupervised Learning, Bioelectronic Devices, Introduction to Mathematical Biology</span>  
 
 **BSc in Chemistry, cum laude** *(KAIST, 2023)*  
-  <span style="display: inline-block; width: 100%;">Relevant Coursework: Physical Chemistry, Advanced Organic Synthesis, Bioorganic Chemistry, Physical Chemistry I & II, Biochemistry II, AI Chemistry</span>  
+  <span style="display: inline-block; width: 100%; font-size: 0.8em;">Relevant Coursework: Physical Chemistry, Advanced Organic Synthesis, Bioorganic Chemistry, Physical Chemistry I & II, Biochemistry II, AI Chemistry</span>  
 
 **BSc in Bio & Brain Engineering, cum laude** *(KAIST, 2023)*  
-  <span style="display: inline-block; width: 100%;">Relevant Coursework: Biomedical Statistics & Statistical Learning, Brain Science Fundamentals, Bioinformatics, Bio-Data Structures, Bio-Data Engineering, Bio-Information Processing, Brain-Inspired Machine Intelligence, Computational Neuroscience</span>  
+  <span style="display: inline-block; width: 100%; font-size: 0.8em;">Relevant Coursework: Biomedical Statistics & Statistical Learning, Brain Science Fundamentals, Bioinformatics, Bio-Data Structures, Bio-Data Engineering, Bio-Information Processing, Brain-Inspired Machine Intelligence, Computational Neuroscience</span>  
 
 
 Research Experience
