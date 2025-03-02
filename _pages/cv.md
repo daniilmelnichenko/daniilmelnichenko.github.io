@@ -50,6 +50,10 @@ Poster Presentations
 
 Work Experience and Volunteering
 ======
+* **Bio-Data Engineering Teaching Assistant** @ *KAIST Department of Bio&Brain Engineering* 
+<span style="display: inline-block; width: 100%;">*Spring 2024, Spring 2025 | Daejeon, Republic of Korea*</span>
+<span style="display: inline-block; width: 100%;">Assisting wtih quiz preparation and coding assignment management.</span>
+
 * **Bio-Data Structures Teaching Assistant** @ *KAIST Department of Bio&Brain Engineering* 
 <span style="display: inline-block; width: 100%;">*Fall 2023, Fall 2024 | Daejeon, Republic of Korea*</span>
 <span style="display: inline-block; width: 100%;">Conducting study sessions with introduction to Python, Data Structures, and SSH. Assisting in
@@ -59,10 +63,6 @@ grading programming assignments and final project submissions.</span>
 <span style="display: inline-block; width: 100%;">*Fall 2024 | Daejeon, Republic of Korea*</span>
 <span style="display: inline-block; width: 100%;">Conducting study sessions with introduction to Python and Data Structures. Assisting in
 grading programming assignments.</span>
-
-* **Bio-Data Engineering Teaching Assistant** @ *KAIST Department of Bio&Brain Engineering* 
-<span style="display: inline-block; width: 100%;">*Spring 2024 | Daejeon, Republic of Korea*</span>
-<span style="display: inline-block; width: 100%;">Assisting in quiz preparation and grading.</span>
 
 * **Academic Coach and Tutor** @ *KAIST ISSS and School of Freshmen*
 <span style="display: inline-block; width: 100%;">*Fall 2020 - Spring 2023 | Daejeon, Republic of Korea*</span>
