@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 
-**MS in Bio & Brain Engineering** *(KAIST, Expected 2025)*  
+**MS in Bio & Brain Engineering** *(KAIST, exp. 2025)*  
   <span style="display: inline-block; width: 100%;">Advisor: Dr. Young-suk Lee</span>  
   <span style="display: inline-block; width: 100%;">Relevant Coursework: Machine Learning for Healthcare, AI in Biomedical Imaging, Generative Models & Unsupervised Learning, Bioelectronic Devices, Introduction to Mathematical Biology</span>  
 
@@ -25,15 +25,15 @@ Education
 
 Research Experience
 ======
-* **Graduate Researcher** @ *[Laboratory of Quantitative and Computational Biology](https://young.kaist.ac.kr/), KAIST*
+**Graduate Researcher** @ *[Laboratory of Quantitative and Computational Biology](https://young.kaist.ac.kr/), KAIST*
 <span style="display: inline-block; width: 100%;">Principal Investigator: Dr. Young-suk Lee</span>
 <span style="display: inline-block; width: 100%;">*Aug 2023 - Present | Daejeon, Republic of Korea*</span>
 
-* **Undergraduate Intern** @ *[Laboratory of Quantitative and Computational Biology](https://young.kaist.ac.kr/), KAIST*
+**Undergraduate Intern** @ *[Laboratory of Quantitative and Computational Biology](https://young.kaist.ac.kr/), KAIST*
 <span style="display: inline-block; width: 100%;">Principal Investigator: Dr. Young-suk Lee</span>
 <span style="display: inline-block; width: 100%;">*Jul 2022 - Aug 2023 | Daejeon, Republic of Korea*</span>
 
-* **Undergraduate Intern** @ *[Center for Cell-Encapsulation Research](http://cisgroup.kaist.ac.kr/index.html), KAIST*
+**Undergraduate Intern** @ *[Center for Cell-Encapsulation Research](http://cisgroup.kaist.ac.kr/index.html), KAIST*
 <span style="display: inline-block; width: 100%;">Principal Investigator: Dr. Insung S. Choi</span>
 <span style="display: inline-block; width: 100%;">*Feb 2021 - Dec 2021 | Daejeon, Republic of Korea*</span>
 <!-- 
@@ -43,7 +43,7 @@ Publications
 
 Poster Presentations
 ======
-* **Designing protein-interacting RNA sequences using structure-based generative models** @ *RECOMB, Apr 2025 (upcoming)*
+**Designing protein-interacting RNA sequences using structure-based generative models** @ *RECOMB, Apr 2025 (upcoming)*
 <span style="display: inline-block; width: 100%;">**Daniil Melnichenko\***, Joohyun Cho\*, Jongmin Lim, Dongsup Kim, Young-suk Lee</span>
 
 *\*equal contributions*
