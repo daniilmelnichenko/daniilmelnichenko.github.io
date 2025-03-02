@@ -96,6 +96,27 @@ Skills
 <span class="tooltip">Mentoring<span class="tooltiptext">Through guiding an intern project</span></span>,
 <span class="tooltip">Project Leading<span class="tooltiptext">Through work at a non-profit fund</span></span>
 
+Achievements
+======
+* **Honor Program Student**  
+  <span style="display: inline-block; width: 100%;">*Mar 2022 - Aug 2023*</span>  
+  <span style="display: inline-block; width: 100%;">Awarded to students that accumulated at least 82 credits within first 5 semesters and achieved a particularly high GPA.</span>
+
+* **Undergraduate Research Program Fellowship (URP)**  
+  <span style="display: inline-block; width: 100%;">*Jun - Dec 2021*</span>  
+  <span style="display: inline-block; width: 100%;">Awarded scholarship based on the proposal evaluation to proceed with 6-month research at the Center for Cell-Encapsulation Research, KAIST.  
+  **Project title:** Photosensitizer-Metal Complex-Based Film Formation for Antimicrobial Photodynamic Inactivation.</span>
+
+* **Special Prize “Pride of the Nation” from the First President Foundation**  
+  <span style="display: inline-block; width: 100%;">*Nov 2019*</span>  
+  <span style="display: inline-block; width: 100%;">For achievements in representing Kazakhstan at International Science Competitions.</span>
+
+* **Prize-winner at International Chemistry Olympiads**  
+  <span style="display: inline-block; width: 100%;">*May, Jul 2019*</span>  
+  <ul>
+      <li>Silver medal at the 53rd International Mendeleev Chemistry Olympiad (St. Petersburg, Russia)</li>
+      <li>Bronze medal at the 51st International Chemistry Olympiad (Paris, France)</li>
+  </ul>
 
 <style>
 .tooltip {
