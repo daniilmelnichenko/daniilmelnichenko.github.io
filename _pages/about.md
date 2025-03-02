@@ -37,10 +37,10 @@ Research Experience
 <span style="display: inline-block; width: 100%;">Principal Investigator: Dr. Insung S. Choi</span>
 <span style="display: inline-block; width: 100%;">*Feb 2021 - Dec 2021 | Daejeon, Republic of Korea*</span>
 
-Publications
+<!-- Publications
 ======
 **to be updated soon**
 
 Posters and Talks
 ======
-**to be updated soon**
+**to be updated soon** -->
