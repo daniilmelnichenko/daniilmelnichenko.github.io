@@ -41,10 +41,12 @@ Publications
 ======
 **to be updated soon** -->
 
-Poster Presentations (*equal contributions)
+Poster Presentations
 ======
 * **Designing protein-interacting RNA sequences using structure-based generative models** @ *RECOMB, Apr 2025 (upcoming)*
 <span style="display: inline-block; width: 100%;">**Daniil Melnichenko\***, Joohyun Cho\*, Jongmin Lim, Dongsup Kim, Young-suk Lee</span>
+
+*\*equal contributions*
 
 Work Experience and Volunteering
 ======
