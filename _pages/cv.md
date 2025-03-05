@@ -97,7 +97,7 @@ Skills
 <span class="tooltip">Korean<span class="tooltiptext">TOPIK 5급</span></span>, 
 <span class="tooltip">Kazakh<span class="tooltiptext">Received some parts of secondary education in Kazakh</span></span></span>
 * **Soft skills**
-<span style="display: inline-block; width: 100%;"><span class="tooltip">Event Organization<span class="tooltiptext">Through work at a non-profit fund and as a lab job @ Young Lab</span></span>, 
+Academic Writing, <span style="display: inline-block; width: 100%;"><span class="tooltip">Event Organization<span class="tooltiptext">Through work at a non-profit fund and as a lab job @ Young Lab</span></span>, 
 <span class="tooltip">Mentoring<span class="tooltiptext">Through guiding an intern project</span></span>,
 <span class="tooltip">Project Leading<span class="tooltiptext">Through work at a non-profit fund</span></span>
 
