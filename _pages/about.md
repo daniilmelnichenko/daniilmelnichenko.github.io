@@ -13,7 +13,7 @@ I’m especially interested in using AI to make a real impact in medicine and he
 
 Outside of research, you’ll probably find me hiking, discovering new coffee spots, or picking up new languages (currently trying to learn Japanese and get more fluent in Korean by learning Hanja). Always curious, always learning.
 
-Keywords: *Generative AI (diffusion models), LLM-based Foundation Models for Life Science, Graph Neural Networks (GNNs)*
+Keywords: *Generative AI (mainly diffusion models), LLM-based Foundation Models for Life Science, Graph Neural Networks (GNNs)*
 
 Education
 ======
