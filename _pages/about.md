@@ -7,9 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I'm Daniil ..... short introduction
+Hi, I’m Daniil — a graduate student at KAIST, passionate about the intersection of AI and life sciences. My journey started with a love for math and natural sciences back in middle school, and over time, that curiosity led me to bioinformatics algorithms, thanks to [Prof. Young-Suk Lee]((https://young.kaist.ac.kr/)). Now, I’m diving into generative AI for protein-RNA complexes, exploring how machine learning can help us better understand biology and accelerate drug discovery.
 
+I’m especially interested in using AI to make a real impact in medicine and healthcare, whether it’s through medical imaging, electronic health records (EHRs), or uncovering the deeper mechanisms of RNA/protein folding, molecular interactions, and metabolite studies. Since I’m still early in my career, I see this as a time for exploration—learning, experimenting, and figuring out where I can contribute the most.
 
+Outside of research, you’ll probably find me hiking, discovering new coffee spots, or picking up new languages (currently trying to learn Japanese and get more fluent in Korean by learning Hanja). Always curious, always learning.
+
+Keywords: *Generative AI (diffusion models), LLM-based Foundation Models for Life Science, Graph Neural Networks (GNNs)*
 
 Education
 ======

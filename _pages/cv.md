@@ -87,7 +87,7 @@ Skills
 ======
 * **Technical Skills**
    * **Programming Languages**: Python, R, MATLAB
-   * **Python Libraries/Frameworks**: PyTorch, TensorFlow, NumPy, Pandas, RDKit, Matplotlib
+   * **Python Libraries/Frameworks**: PyTorch, TensorFlow, NumPy, Pandas, RDKit, Matplotlib, ...
    * **Data Management**: PostgreSQL
    * **Other Tools**: Git, Linux, PyMOL, Docker, ChemDraw, LaTeX, Adobe Illustrator, Microsoft Office
    * **Experimental Chemistry**: Organic Synthesis, NMR, FT-IR, MastReNova
