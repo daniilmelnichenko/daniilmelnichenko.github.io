@@ -15,7 +15,7 @@ Outside of research, you’ll probably find me hiking, discovering new coffee sp
 
 Keywords: *Generative AI (mainly diffusion models), LLM-based Foundation Models for Life Science, Graph Neural Networks (GNNs)*
 
-Education
+<!-- Education
 ======
 
 **MS in Bio&Brain Engineering**  
@@ -41,7 +41,46 @@ Research Experience
 
 **Undergraduate Intern** @ *[Center for Cell-Encapsulation Research](http://cisgroup.kaist.ac.kr/index.html), KAIST*
 <span style="display: inline-block; width: 100%;">Principal Investigator: Dr. Insung S. Choi</span>
-<span style="display: inline-block; width: 100%;">*Feb 2021 - Dec 2021 | Daejeon, Republic of Korea*</span>
+<span style="display: inline-block; width: 100%;">*Feb 2021 - Dec 2021 | Daejeon, Republic of Korea*</span> -->
+
+<table>
+<tr>
+  <td valign="top" width="50%">
+  
+### Education
+======
+
+**MS in Bio&Brain Engineering**  
+Advisor: Dr. Young-suk Lee  
+Korea Advanced Institute of Science & Technology, 2025 (*expected*)  
+
+**BSc, cum laude, in Chemistry**  
+Korea Advanced Institute of Science & Technology, 2023  
+
+**BSc, cum laude, in Bio&Brain Engineering**  
+Korea Advanced Institute of Science & Technology, 2023  
+
+  </td>
+  <td valign="top" width="50%">
+
+### Research Experience
+======
+
+**Graduate Researcher** @ *[Laboratory of Quantitative and Computational Biology](https://young.kaist.ac.kr/), KAIST*  
+Principal Investigator: Dr. Young-suk Lee  
+*Aug 2023 - Present | Daejeon, Republic of Korea*  
+
+**Undergraduate Intern** @ *[Laboratory of Quantitative and Computational Biology](https://young.kaist.ac.kr/), KAIST*  
+Principal Investigator: Dr. Young-suk Lee  
+*Jul 2022 - Aug 2023 | Daejeon, Republic of Korea*  
+
+**Undergraduate Intern** @ *[Center for Cell-Encapsulation Research](http://cisgroup.kaist.ac.kr/index.html), KAIST*  
+Principal Investigator: Dr. Insung S. Choi  
+*Feb 2021 - Dec 2021 | Daejeon, Republic of Korea*  
+
+  </td>
+</tr>
+</table>
 
 <!-- Publications
 ======
