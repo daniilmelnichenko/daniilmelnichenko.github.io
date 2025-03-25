@@ -28,7 +28,7 @@ Research Experience
 **Graduate Researcher** @ *[Laboratory of Quantitative and Computational Biology](https://young.kaist.ac.kr/), KAIST*
 <span style="display: inline-block; width: 100%;">Principal Investigator: Dr. Young-suk Lee</span>
 <span style="display: inline-block; width: 100%;">*Aug 2023 - Present | Daejeon, Republic of Korea*</span>
-<ul>
+<ul style="display: inline-block; width: 100%;">
   <li>Developed a diffusion-based model for protein graph conditioned RNA sequence generation.</li>
   <li>Worked on <em>in silico</em> gRNA design for enhanced Cas13-based diagnostics.</li>
   <li>Designed antiviral antisense oligonucleotides for a cross-institutional project.</li>
@@ -163,17 +163,4 @@ Wrote several blogposts and conducted seminars for popularizing Chemistry amongs
   visibility: visible;
   opacity: 0.9;
 }
-</style>
-
-
-<style>
-  ul {
-    margin: 0;
-    padding: 0; 
-  }
-  li {
-    margin: 0;
-    padding: 0;
-    display: inline; 
-  }
 </style>
