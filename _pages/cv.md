@@ -28,20 +28,27 @@ Research Experience
 **Graduate Researcher** @ *[Laboratory of Quantitative and Computational Biology](https://young.kaist.ac.kr/), KAIST*
 <span style="display: inline-block; width: 100%;">Principal Investigator: Dr. Young-suk Lee</span>
 <span style="display: inline-block; width: 100%;">*Aug 2023 - Present | Daejeon, Republic of Korea*</span>
-- Developed a diffusion-based model for protein graph conditioned RNA sequence generation.
-- Worked on *in silico* gRNA design for enhanced Cas13-based diagnostics.
-- Designed antiviral antisense oligonucleotides for a cross-institutional project.
-- Guided an intern project on Cas13-gRNA activity prediction.
+<ul style="margin:0; padding-left:1.5em;">
+  <li>Developed a diffusion-based model for protein graph conditioned RNA sequence generation.</li>
+  <li>Worked on *in silico* gRNA design for enhanced Cas13-based diagnostics.</li>
+  <li>Designed antiviral antisense oligonucleotides for a cross-institutional project.</li>
+  <li>Guided an intern project on Cas13-gRNA activity prediction.</li>
+</ul>
 
 **Undergraduate Intern** @ *[Laboratory of Quantitative and Computational Biology](https://young.kaist.ac.kr/), KAIST*
 <span style="display: inline-block; width: 100%;">Principal Investigator: Dr. Young-suk Lee</span>
 <span style="display: inline-block; width: 100%;">*Jul 2022 - Aug 2023 | Daejeon, Republic of Korea*</span>
-- Developed an RNA structural motif search algorithm for IRES classification.
+<ul style="margin:0; padding-left:1.5em;">
+  <li>Developed an RNA structural motif search algorithm for IRES classification.</li>
+</ul>
 
 **Undergraduate Intern** @ *[Center for Cell-Encapsulation Research](http://cisgroup.kaist.ac.kr/index.html), KAIST*
 <span style="display: inline-block; width: 100%;">Principal Investigator: Dr. Insung S. Choi</span>
 <span style="display: inline-block; width: 100%;">*Feb 2021 - Dec 2021 | Daejeon, Republic of Korea*</span>
-- Synthesized and analyzed ROS-generating metal-organic complexes for antimicrobial activity
+<ul style="margin:0; padding-left:1.5em;">
+  <li>Synthesized and analyzed ROS-generating metal-organic complexes for antimicrobial activity</li>
+</ul>
+
 <!-- 
 Publications
 ======
