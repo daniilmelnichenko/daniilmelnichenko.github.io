@@ -19,7 +19,7 @@ Education
 **BSc in Chemistry, cum laude** *(KAIST, 2023)*  
   <span style="display: inline-block; width: 60%; font-size: 0.8em;">Relevant Coursework: Advanced Organic Synthesis, Bioorganic Chemistry, Physical Chemistry I&II, Biochemistry II, AI Chemistry</span>  
 
-**BSc in Bio & Brain Engineering, cum laude** *(KAIST, 2023)*  
+**BSc in Bio & Brain Engineering (double major), cum laude** *(KAIST, 2023)*  
   <span style="display: inline-block; width: 60%; font-size: 0.8em;">Relevant Coursework: Biomedical Statistics & Statistical Learning, Brain Science Fundamentals, Bioinformatics, Bio-Data Structures, Bio-Data Engineering, Bio-Information Processing, Brain-Inspired Machine Intelligence, Computational Neuroscience</span>  
 
 
@@ -28,14 +28,20 @@ Research Experience
 **Graduate Researcher** @ *[Laboratory of Quantitative and Computational Biology](https://young.kaist.ac.kr/), KAIST*
 <span style="display: inline-block; width: 100%;">Principal Investigator: Dr. Young-suk Lee</span>
 <span style="display: inline-block; width: 100%;">*Aug 2023 - Present | Daejeon, Republic of Korea*</span>
+* Developed a diffusion-based model for protein graph conditioned RNA sequence generation.
+* Worked on *in silico* gRNA design for enhanced Cas13-based diagnostics.
+* Designed antiviral antisense oligonucleotides for a cross-institutional project.
+* Guided an intern project on Cas13-gRNA activity prediction.
 
 **Undergraduate Intern** @ *[Laboratory of Quantitative and Computational Biology](https://young.kaist.ac.kr/), KAIST*
 <span style="display: inline-block; width: 100%;">Principal Investigator: Dr. Young-suk Lee</span>
 <span style="display: inline-block; width: 100%;">*Jul 2022 - Aug 2023 | Daejeon, Republic of Korea*</span>
+* Developed an RNA structural motif search algorithm for IRES classification.
 
 **Undergraduate Intern** @ *[Center for Cell-Encapsulation Research](http://cisgroup.kaist.ac.kr/index.html), KAIST*
 <span style="display: inline-block; width: 100%;">Principal Investigator: Dr. Insung S. Choi</span>
 <span style="display: inline-block; width: 100%;">*Feb 2021 - Dec 2021 | Daejeon, Republic of Korea*</span>
+* Synthesized and analyzed ROS-generating metal-organic complexes for antimicrobial activity
 <!-- 
 Publications
 ======
