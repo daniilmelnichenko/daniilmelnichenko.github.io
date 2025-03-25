@@ -28,27 +28,26 @@ Research Experience
 **Graduate Researcher** @ *[Laboratory of Quantitative and Computational Biology](https://young.kaist.ac.kr/), KAIST*
 <span style="display: inline-block; width: 100%;">Principal Investigator: Dr. Young-suk Lee</span>
 <span style="display: inline-block; width: 100%;">*Aug 2023 - Present | Daejeon, Republic of Korea*</span>
-<ul style="display: inline-block; width: 100%;">
+<!-- <ul style="display: inline-block; width: 100%;">
   <li>Developed a diffusion-based model for protein graph conditioned RNA sequence generation.</li>
   <li>Worked on <em>in silico</em> gRNA design for enhanced Cas13-based diagnostics.</li>
   <li>Designed antiviral antisense oligonucleotides for a cross-institutional project.</li>
   <li>Guided an intern project on Cas13-gRNA activity prediction.</li>
-</ul>
-
+</ul> -->
 
 **Undergraduate Intern** @ *[Laboratory of Quantitative and Computational Biology](https://young.kaist.ac.kr/), KAIST*
 <span style="display: inline-block; width: 100%;">Principal Investigator: Dr. Young-suk Lee</span>
 <span style="display: inline-block; width: 100%;">*Jul 2022 - Aug 2023 | Daejeon, Republic of Korea*</span>
-<p>
+<!-- <p>
 - Developed an RNA structural motif search algorithm for IRES classification.
-</p>
+</p> -->
 
 **Undergraduate Intern** @ *[Center for Cell-Encapsulation Research](http://cisgroup.kaist.ac.kr/index.html), KAIST*
 <span style="display: inline-block; width: 100%;">Principal Investigator: Dr. Insung S. Choi</span>
 <span style="display: inline-block; width: 100%;">*Feb 2021 - Dec 2021 | Daejeon, Republic of Korea*</span>
-<p>
+<!-- <p>
 - Synthesized and analyzed ROS-generating metal-organic complexes for antimicrobial activity
-</p>
+</p> -->
 
 <!-- 
 Publications
