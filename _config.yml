@@ -22,13 +22,13 @@ repository               : "daniilmelnichenko/daniilmelnichenko.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Daniil {다니일}"
+  name             : "Daniil {다닐}"
   pronouns         : # example: "she/her"  
   bio              : "Computational Biology Enthusiast"
-  location         : "Republic of Korea"
-  employer         : "Graduate Student @ KAIST"
+  location         : "Seoul"
+  employer         : "AI Researcher @ HITS Inc."
   uri              : # URL
-  email            : "dan.mb@kaist.ac.kr" 
+  email            : "daniil@hits.ai" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile

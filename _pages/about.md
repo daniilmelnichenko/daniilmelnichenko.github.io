@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I’m Daniil — a graduate student at KAIST, passionate about the intersection of AI and life sciences. My journey started with a love for math and natural sciences back in middle school, and over time, that curiosity led me to bioinformatics algorithms, thanks to [Prof. Young-Suk Lee]((https://young.kaist.ac.kr/)). Now, I’m diving into generative AI for protein-RNA complexes, exploring how machine learning can help us better understand biology and accelerate drug discovery.
+Hi, I’m Daniil — an AI researcher at drug discovery company [HITS](https://hits.ai/index_en.html) based in Seoul, passionate about the intersection of AI and life sciences. My journey started with a love for math and natural sciences back in middle school, and over time, that curiosity led me to bioinformatics algorithms and RNA biology, thanks to [Prof. Young-Suk Lee]((https://young.kaist.ac.kr/)). Previously working on protein-conditioned RNA design, mow, I’m diving into generative AI for protein-ligand complexes and ligand synthesis, exploring how machine learning can help us better understand biology and accelerate drug discovery.
 
 I’m especially interested in using AI to make a real impact in medicine and healthcare, whether it’s through medical imaging, electronic health records (EHRs), or uncovering the deeper mechanisms of RNA/protein folding, molecular interactions, and metabolite studies. Since I’m still early in my career, I see this as a time for exploration—learning, experimenting, and figuring out where I can contribute the most.
 
@@ -31,9 +31,12 @@ Education
 
 Research Experience
 ======
+**AI Researcher** @ *AI Research Team 1, [HITS Inc.](https://hits.ai/index_en.html)*
+<span style="display: inline-block; width: 100%;">*Aug 2025 - Present | Seoul, Republic of Korea*</span>
+
 **Graduate Researcher** @ *[Laboratory of Quantitative and Computational Biology](https://young.kaist.ac.kr/), KAIST*
 <span style="display: inline-block; width: 100%;">Principal Investigator: Dr. Young-suk Lee</span>
-<span style="display: inline-block; width: 100%;">*Aug 2023 - Present | Daejeon, Republic of Korea*</span>
+<span style="display: inline-block; width: 100%;">*Aug 2023 - Aug 2025 | Daejeon, Republic of Korea*</span>
 
 **Undergraduate Intern** @ *[Laboratory of Quantitative and Computational Biology](https://young.kaist.ac.kr/), KAIST*
 <span style="display: inline-block; width: 100%;">Principal Investigator: Dr. Young-suk Lee</span>
