@@ -12,22 +12,25 @@ redirect_from:
 Education
 ======
 
-**MS in Bio & Brain Engineering** *(KAIST, exp. 2025)*  
+**MS in Bio&Brain Engineering**  
   <span style="display: inline-block; width: 100%;">Advisor: Dr. Young-suk Lee</span>  
-  <span style="display: inline-block; width: 60%; font-size: 0.8em;">Relevant Coursework: Machine Learning for Healthcare, AI in Biomedical Imaging, Generative Models & Unsupervised Learning, Bioelectronic Devices</span>  
+  <span style="display: inline-block; width: 100%;">Korea Advanced Institute of Science & Technology, 2025</span>
 
-**BSc in Chemistry, cum laude** *(KAIST, 2023)*  
-  <span style="display: inline-block; width: 60%; font-size: 0.8em;">Relevant Coursework: Advanced Organic Synthesis, Bioorganic Chemistry, Physical Chemistry I&II, Biochemistry II, AI Chemistry</span>  
+**BSc, cum laude, in Chemistry**  
+  <span style="display: inline-block; width: 100%;">Korea Advanced Institute of Science & Technology, 2023</span>
 
-**BSc in Bio & Brain Engineering (double major), cum laude** *(KAIST, 2023)*  
-  <span style="display: inline-block; width: 60%; font-size: 0.8em;">Relevant Coursework: Biomedical Statistics & Statistical Learning, Brain Science Fundamentals, Bioinformatics, Bio-Data Structures, Bio-Data Engineering, Bio-Information Processing, Brain-Inspired Machine Intelligence, Computational Neuroscience</span>  
+**BSc, cum laude, in Bio&Brain Engineering**  
+  <span style="display: inline-block; width: 100%;">Korea Advanced Institute of Science & Technology, 2023</span>  
 
 
 Research Experience
 ======
+**AI Researcher** @ *AI Research Team 1, [HITS Inc.](https://hits.ai/index_en.html)*
+<span style="display: inline-block; width: 100%;">*Aug 2025 - Present | Seoul, Republic of Korea*</span>
+
 **Graduate Researcher** @ *[Laboratory of Quantitative and Computational Biology](https://young.kaist.ac.kr/), KAIST*
 <span style="display: inline-block; width: 100%;">Principal Investigator: Dr. Young-suk Lee</span>
-<span style="display: inline-block; width: 100%;">*Aug 2023 - Present | Daejeon, Republic of Korea*</span>
+<span style="display: inline-block; width: 100%;">*Aug 2023 - Aug 2025 | Daejeon, Republic of Korea*</span>
 
 **Undergraduate Intern** @ *[Laboratory of Quantitative and Computational Biology](https://young.kaist.ac.kr/), KAIST*
 <span style="display: inline-block; width: 100%;">Principal Investigator: Dr. Young-suk Lee</span>
@@ -42,10 +45,18 @@ Publications
 ======
 **to be updated soon** -->
 
-Poster Presentations
+Presentations
 ======
-**Designing protein-interacting RNA sequences using structure-based generative models** @ *[RECOMB](https://recomb.org/recomb2025/), Apr 2025 (upcoming)*
-<span style="display: inline-block; width: 100%;">**Daniil Melnichenko\***, Joohyun Cho\*, Jongmin Lim, Dongsup Kim, Young-suk Lee</span>
+<ol>
+<li value="3"><strong>Designing protein-interacting RNA sequences using structure-based generative models</strong> @ <em><a href="https://www.iscb.org/ismbeccb2025/home">ISMB/ECCB</a></em>, Jul 2025 [poster]<br>
+<span style="display: inline-block; width: 100%;"><strong>Daniil Melnichenko*</strong>, Joohyun Cho*(oral presenter), Jongmin Lim, Dongsup Kim, Young-suk Lee</span></li>
+
+<li value="2"><strong>Designing protein-interacting RNA sequences using structure-based generative models</strong> @ KSBI RNA Symposium, Jul 2025 [poster]<br>
+<span style="display: inline-block; width: 100%;"><strong>Daniil Melnichenko*</strong>, Joohyun Cho*, Jongmin Lim, Dongsup Kim, Young-suk Lee</span></li>
+
+<li value="1"><strong>Designing protein-interacting RNA sequences using structure-based generative models</strong> @ <em><a href="https://recomb.org/recomb2025/">RECOMB</a></em>, Apr 2025 [poster]<br>
+<span style="display: inline-block; width: 100%;"><strong>Daniil Melnichenko*</strong>, Joohyun Cho*, Jongmin Lim, Dongsup Kim, Young-suk Lee</span></li>
+</ol>
 
 *\*equal contributions*
 
@@ -85,7 +96,7 @@ Academic Writing, <span style="display: inline-block; width: 100%;"><span class=
 <span class="tooltip">Mentoring<span class="tooltiptext">Through guiding an intern project</span></span>,
 <span class="tooltip">Project Leading<span class="tooltiptext">Through work at a non-profit fund</span></span>
 
-Work Experience and Volunteering
+Teaching and Volunteering
 ======
 * **Bio-Data Engineering Teaching Assistant** @ *KAIST Department of Bio&Brain Engineering* 
 <span style="display: inline-block; width: 100%;">*Spring 2024, Spring 2025 | Daejeon, Republic of Korea*</span>

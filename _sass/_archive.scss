@@ -3,7 +3,7 @@
    ========================================================================== */
 
 .archive {
-  margin-bottom: 2em;
+  margin-bottom: 3em;
 
   @include breakpoint($medium) {
     @include span(12 of 12);
@@ -12,6 +12,30 @@
   @include breakpoint($large) {
     @include span(10 of 12 last);
     @include prefix(0.5 of 12);
+  }
+  
+  h1 {
+    margin-bottom: 0.5em;
+    margin-top: 0;
+  }
+  
+  h2 {
+    margin-top: 0.25em !important;
+    margin-bottom: 0.15em !important;
+    padding-bottom: 0.15em;
+  }
+  
+  h3, h4, h5, h6 {
+    margin-top: 0.25em !important;
+    margin-bottom: 0.15em !important;
+  }
+  
+  /* Reduce spacing after headings in CV */
+  h2 + p,
+  h2 + ul,
+  h2 + ol,
+  h2 + div {
+    margin-top: 0.25em;
   }
 
   a {
@@ -40,8 +64,19 @@
 }
 
 .archive__item-title {
-  margin-bottom: 0.25em;
+  margin-bottom: 0.5em;
   font-family: $sans-serif-narrow;
+  font-size: 1.3em;
+  font-weight: 600;
+  
+  a {
+    color: #1f2937;
+    transition: color 0.3s ease;
+    
+    &:hover {
+      color: #3b82f6;
+    }
+  }
 
   a + a {
     opacity: 0.5;
@@ -58,8 +93,10 @@
 }
 
 .archive__item-excerpt {
-  margin-top: 0;
-  font-size: $type-size-6;
+  margin-top: 0.5em;
+  font-size: 1em;
+  color: #4b5563;
+  line-height: 1.7;
 
   & + p {
     text-indent: 0;
@@ -76,11 +113,19 @@
 
 .archive__item:hover {
   .archive__item-teaser {
-    box-shadow: 0 0 10px rgba(#000, 0.25);
+    box-shadow: 0 8px 20px rgba(59, 130, 246, 0.2);
+    transform: scale(1.02);
+    transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
   }
 
   .archive__item-title {
-    text-decoration: underline;
+    color: #3b82f6;
+  }
+  
+  .archive__item-title a {
+    &::after {
+      width: 100%;
+    }
   }
 }
 
@@ -90,6 +135,14 @@
    ========================================================================== */
 
 .list__item {
+  padding: 1.5em;
+  margin-bottom: 1.5em;
+  background: #fff;
+  border-radius: 8px;
+  border: 1px solid $border-color;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+  
   @include breakpoint($medium) {
     padding-right: $right-sidebar-width-narrow;
   }
@@ -100,6 +153,12 @@
 
   @include breakpoint($x-large) {
     padding-right: $right-sidebar-width-wide;
+  }
+  
+  &:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+    border-color: rgba(59, 130, 246, 0.3);
   }
 
   .page__meta {

@@ -1,0 +1,26 @@
+block in append_cflags: checking for whether -std=c99 is accepted as CFLAGS... -------------------- yes
+
+DYLD_FALLBACK_LIBRARY_PATH=.:/Users/daniil/miniconda3/envs/apple/lib "arm64-apple-darwin20.0.0-clang -o conftest -I/Users/daniil/miniconda3/envs/apple/include/ruby-3.2.0/arm64-darwin20 -I/Users/daniil/miniconda3/envs/apple/include/ruby-3.2.0/ruby/backward -I/Users/daniil/miniconda3/envs/apple/include/ruby-3.2.0 -I. -D_FORTIFY_SOURCE=2 -isystem /Users/daniil/miniconda3/envs/apple/include -mmacosx-version-min=11.0 -mmacosx-version-min=11.0 -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -ftree-vectorize -fPIC -fstack-protector-strong -O2 -pipe -isystem /Users/daniil/miniconda3/envs/apple/include -fdebug-prefix-map=/Users/runner/miniforge3/conda-bld/ruby_1719561667373/work=/usr/local/src/conda/ruby-3.2.2 -fdebug-prefix-map=/Users/daniil/miniconda3/envs/apple=/usr/local/src/conda-prefix -fdeclspec -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wextra-tokens -Wdeprecated-declarations -Wdivision-by-zero -Wdiv-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wmisleading-indentation -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wold-style-definition -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wundef -fno-common conftest.c  -L. -L/Users/daniil/miniconda3/envs/apple/lib -L. -Wl,-headerpad_max_install_names -Wl,-dead_strip_dylibs -Wl,-rpath,/Users/daniil/miniconda3/envs/apple/lib -L/Users/daniil/miniconda3/envs/apple/lib -fstack-protector-strong     -lruby.3.2  -lpthread  "
+checked program was:
+/* begin */
+1: #include "ruby.h"
+2: 
+3: int main(int argc, char **argv)
+4: {
+5:   return !!argv[argc];
+6: }
+/* end */
+
+DYLD_FALLBACK_LIBRARY_PATH=.:/Users/daniil/miniconda3/envs/apple/lib "arm64-apple-darwin20.0.0-clang -I/Users/daniil/miniconda3/envs/apple/include/ruby-3.2.0/arm64-darwin20 -I/Users/daniil/miniconda3/envs/apple/include/ruby-3.2.0/ruby/backward -I/Users/daniil/miniconda3/envs/apple/include/ruby-3.2.0 -I. -D_FORTIFY_SOURCE=2 -isystem /Users/daniil/miniconda3/envs/apple/include -mmacosx-version-min=11.0 -mmacosx-version-min=11.0 -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -ftree-vectorize -fPIC -fstack-protector-strong -O2 -pipe -isystem /Users/daniil/miniconda3/envs/apple/include -fdebug-prefix-map=/Users/runner/miniforge3/conda-bld/ruby_1719561667373/work=/usr/local/src/conda/ruby-3.2.2 -fdebug-prefix-map=/Users/daniil/miniconda3/envs/apple=/usr/local/src/conda-prefix -fdeclspec -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wextra-tokens -Wdeprecated-declarations -Wdivision-by-zero -Wdiv-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wmisleading-indentation -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wold-style-definition -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wundef -fno-common  -std=c99 -Werror -c conftest.c"
+checked program was:
+/* begin */
+1: #include "ruby.h"
+2: 
+3: int main(int argc, char **argv)
+4: {
+5:   return !!argv[argc];
+6: }
+/* end */
+
+--------------------
+

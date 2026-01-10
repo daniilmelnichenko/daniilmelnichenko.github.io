@@ -1,0 +1,20 @@
+current directory: /Users/daniil/Documents/others/daniil/webcv/daniilmelnichenko.github.io/vendor/bundle/ruby/3.2.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/Users/daniil/miniconda3/envs/apple/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/daniil/Documents/others/daniil/webcv/daniilmelnichenko.github.io/vendor/bundle/ruby/3.2.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20260109-17546-6een2q sitelibdir\=./.gem.20260109-17546-6een2q clean
+
+current directory: /Users/daniil/Documents/others/daniil/webcv/daniilmelnichenko.github.io/vendor/bundle/ruby/3.2.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20260109-17546-6een2q sitelibdir\=./.gem.20260109-17546-6een2q
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.bundle
+ld: warning: duplicate -rpath '/Users/daniil/miniconda3/envs/apple/lib' ignored
+
+current directory: /Users/daniil/Documents/others/daniil/webcv/daniilmelnichenko.github.io/vendor/bundle/ruby/3.2.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20260109-17546-6een2q sitelibdir\=./.gem.20260109-17546-6een2q install
+/usr/bin/install -c -m 0755 fastfilereaderext.bundle ./.gem.20260109-17546-6een2q
+
+current directory: /Users/daniil/Documents/others/daniil/webcv/daniilmelnichenko.github.io/vendor/bundle/ruby/3.2.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20260109-17546-6een2q sitelibdir\=./.gem.20260109-17546-6een2q clean

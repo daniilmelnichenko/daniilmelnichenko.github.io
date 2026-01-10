@@ -1,0 +1,19 @@
+current directory: /Users/daniil/Documents/others/daniil/webcv/daniilmelnichenko.github.io/vendor/bundle/ruby/3.2.0/gems/racc-1.8.1/ext/racc/cparse
+/Users/daniil/miniconda3/envs/apple/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/daniil/Documents/others/daniil/webcv/daniilmelnichenko.github.io/vendor/bundle/ruby/3.2.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260109-17546-p328u sitelibdir\=./.gem.20260109-17546-p328u clean
+
+current directory: /Users/daniil/Documents/others/daniil/webcv/daniilmelnichenko.github.io/vendor/bundle/ruby/3.2.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260109-17546-p328u sitelibdir\=./.gem.20260109-17546-p328u
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+ld: warning: duplicate -rpath '/Users/daniil/miniconda3/envs/apple/lib' ignored
+
+current directory: /Users/daniil/Documents/others/daniil/webcv/daniilmelnichenko.github.io/vendor/bundle/ruby/3.2.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260109-17546-p328u sitelibdir\=./.gem.20260109-17546-p328u install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20260109-17546-p328u/racc
+
+current directory: /Users/daniil/Documents/others/daniil/webcv/daniilmelnichenko.github.io/vendor/bundle/ruby/3.2.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260109-17546-p328u sitelibdir\=./.gem.20260109-17546-p328u clean
