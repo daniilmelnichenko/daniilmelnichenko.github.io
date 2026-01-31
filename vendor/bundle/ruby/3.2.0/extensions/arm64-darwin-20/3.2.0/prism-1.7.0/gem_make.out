@@ -1,14 +1,14 @@
-current directory: /Users/daniil/Documents/others/daniil/webcv/daniilmelnichenko.github.io/vendor/bundle/ruby/3.2.0/gems/prism-1.7.0/ext/prism
+current directory: /Users/daniil/Documents/others/daniil/webcv/daniil-melnichenko.github.io/vendor/bundle/ruby/3.2.0/gems/prism-1.7.0/ext/prism
 /Users/daniil/miniconda3/envs/apple/bin/ruby extconf.rb
-checking for prism.h in /Users/daniil/Documents/others/daniil/webcv/daniilmelnichenko.github.io/vendor/bundle/ruby/3.2.0/gems/prism-1.7.0/include... yes
-checking for prism/extension.h in /Users/daniil/Documents/others/daniil/webcv/daniilmelnichenko.github.io/vendor/bundle/ruby/3.2.0/gems/prism-1.7.0/ext... yes
+checking for prism.h in /Users/daniil/Documents/others/daniil/webcv/daniil-melnichenko.github.io/vendor/bundle/ruby/3.2.0/gems/prism-1.7.0/include... yes
+checking for prism/extension.h in /Users/daniil/Documents/others/daniil/webcv/daniil-melnichenko.github.io/vendor/bundle/ruby/3.2.0/gems/prism-1.7.0/ext... yes
 checking for whether -fvisibility=hidden is accepted as CFLAGS... yes
 creating Makefile
 
-current directory: /Users/daniil/Documents/others/daniil/webcv/daniilmelnichenko.github.io/vendor/bundle/ruby/3.2.0/gems/prism-1.7.0/ext/prism
+current directory: /Users/daniil/Documents/others/daniil/webcv/daniil-melnichenko.github.io/vendor/bundle/ruby/3.2.0/gems/prism-1.7.0/ext/prism
 make DESTDIR\= sitearchdir\=./.gem.20260109-17546-h7dzgw sitelibdir\=./.gem.20260109-17546-h7dzgw clean
 
-current directory: /Users/daniil/Documents/others/daniil/webcv/daniilmelnichenko.github.io/vendor/bundle/ruby/3.2.0/gems/prism-1.7.0/ext/prism
+current directory: /Users/daniil/Documents/others/daniil/webcv/daniil-melnichenko.github.io/vendor/bundle/ruby/3.2.0/gems/prism-1.7.0/ext/prism
 make DESTDIR\= sitearchdir\=./.gem.20260109-17546-h7dzgw sitelibdir\=./.gem.20260109-17546-h7dzgw
 compiling api_node.c
 compiling api_pack.c
@@ -37,9 +37,9 @@ compiling ./../../src/util/pm_strpbrk.c
 linking shared-object prism/prism.bundle
 ld: warning: duplicate -rpath '/Users/daniil/miniconda3/envs/apple/lib' ignored
 
-current directory: /Users/daniil/Documents/others/daniil/webcv/daniilmelnichenko.github.io/vendor/bundle/ruby/3.2.0/gems/prism-1.7.0/ext/prism
+current directory: /Users/daniil/Documents/others/daniil/webcv/daniil-melnichenko.github.io/vendor/bundle/ruby/3.2.0/gems/prism-1.7.0/ext/prism
 make DESTDIR\= sitearchdir\=./.gem.20260109-17546-h7dzgw sitelibdir\=./.gem.20260109-17546-h7dzgw install
 /usr/bin/install -c -m 0755 prism.bundle ./.gem.20260109-17546-h7dzgw/prism
 
-current directory: /Users/daniil/Documents/others/daniil/webcv/daniilmelnichenko.github.io/vendor/bundle/ruby/3.2.0/gems/prism-1.7.0/ext/prism
+current directory: /Users/daniil/Documents/others/daniil/webcv/daniil-melnichenko.github.io/vendor/bundle/ruby/3.2.0/gems/prism-1.7.0/ext/prism
 make DESTDIR\= sitearchdir\=./.gem.20260109-17546-h7dzgw sitelibdir\=./.gem.20260109-17546-h7dzgw clean

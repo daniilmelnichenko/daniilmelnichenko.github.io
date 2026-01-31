@@ -92,7 +92,7 @@ You can push your changes to GitHub and GitHub Pages will build and serve your s
    git push
    ```
 
-2. Your site will be available at: `https://daniilmelnichenko.github.io`
+2. Your site will be available at: `https://daniil-melnichenko.github.io`
 
 ## Option 4: Using Docker (if you have Docker installed)
 

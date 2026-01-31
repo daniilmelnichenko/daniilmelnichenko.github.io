@@ -1,4 +1,4 @@
-current directory: /Users/daniil/Documents/others/daniil/webcv/daniilmelnichenko.github.io/vendor/bundle/ruby/3.2.0/gems/bigdecimal-4.0.1/ext/bigdecimal
+current directory: /Users/daniil/Documents/others/daniil/webcv/daniil-melnichenko.github.io/vendor/bundle/ruby/3.2.0/gems/bigdecimal-4.0.1/ext/bigdecimal
 /Users/daniil/miniconda3/envs/apple/bin/ruby extconf.rb
 checking for __builtin_clz()... yes
 checking for __builtin_clzl()... yes
@@ -19,19 +19,19 @@ checking for rb_category_warn() in ruby.h... yes
 checking for RB_WARN_CATEGORY_DEPRECATED in ruby.h... yes
 creating Makefile
 
-current directory: /Users/daniil/Documents/others/daniil/webcv/daniilmelnichenko.github.io/vendor/bundle/ruby/3.2.0/gems/bigdecimal-4.0.1/ext/bigdecimal
+current directory: /Users/daniil/Documents/others/daniil/webcv/daniil-melnichenko.github.io/vendor/bundle/ruby/3.2.0/gems/bigdecimal-4.0.1/ext/bigdecimal
 make DESTDIR\= sitearchdir\=./.gem.20260109-17546-ixrgn8 sitelibdir\=./.gem.20260109-17546-ixrgn8 clean
 
-current directory: /Users/daniil/Documents/others/daniil/webcv/daniilmelnichenko.github.io/vendor/bundle/ruby/3.2.0/gems/bigdecimal-4.0.1/ext/bigdecimal
+current directory: /Users/daniil/Documents/others/daniil/webcv/daniil-melnichenko.github.io/vendor/bundle/ruby/3.2.0/gems/bigdecimal-4.0.1/ext/bigdecimal
 make DESTDIR\= sitearchdir\=./.gem.20260109-17546-ixrgn8 sitelibdir\=./.gem.20260109-17546-ixrgn8
 compiling bigdecimal.c
 compiling missing.c
 linking shared-object bigdecimal.bundle
 ld: warning: duplicate -rpath '/Users/daniil/miniconda3/envs/apple/lib' ignored
 
-current directory: /Users/daniil/Documents/others/daniil/webcv/daniilmelnichenko.github.io/vendor/bundle/ruby/3.2.0/gems/bigdecimal-4.0.1/ext/bigdecimal
+current directory: /Users/daniil/Documents/others/daniil/webcv/daniil-melnichenko.github.io/vendor/bundle/ruby/3.2.0/gems/bigdecimal-4.0.1/ext/bigdecimal
 make DESTDIR\= sitearchdir\=./.gem.20260109-17546-ixrgn8 sitelibdir\=./.gem.20260109-17546-ixrgn8 install
 /usr/bin/install -c -m 0755 bigdecimal.bundle ./.gem.20260109-17546-ixrgn8
 
-current directory: /Users/daniil/Documents/others/daniil/webcv/daniilmelnichenko.github.io/vendor/bundle/ruby/3.2.0/gems/bigdecimal-4.0.1/ext/bigdecimal
+current directory: /Users/daniil/Documents/others/daniil/webcv/daniil-melnichenko.github.io/vendor/bundle/ruby/3.2.0/gems/bigdecimal-4.0.1/ext/bigdecimal
 make DESTDIR\= sitearchdir\=./.gem.20260109-17546-ixrgn8 sitelibdir\=./.gem.20260109-17546-ixrgn8 clean

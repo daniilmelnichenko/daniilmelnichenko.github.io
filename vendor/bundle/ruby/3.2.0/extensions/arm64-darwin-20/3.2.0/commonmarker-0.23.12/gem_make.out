@@ -1,12 +1,12 @@
-current directory: /Users/daniil/Documents/others/daniil/webcv/daniilmelnichenko.github.io/vendor/bundle/ruby/3.2.0/gems/commonmarker-0.23.12/ext/commonmarker
+current directory: /Users/daniil/Documents/others/daniil/webcv/daniil-melnichenko.github.io/vendor/bundle/ruby/3.2.0/gems/commonmarker-0.23.12/ext/commonmarker
 /Users/daniil/miniconda3/envs/apple/bin/ruby extconf.rb
 checking for whether -std=c99 is accepted as CFLAGS... yes
 creating Makefile
 
-current directory: /Users/daniil/Documents/others/daniil/webcv/daniilmelnichenko.github.io/vendor/bundle/ruby/3.2.0/gems/commonmarker-0.23.12/ext/commonmarker
+current directory: /Users/daniil/Documents/others/daniil/webcv/daniil-melnichenko.github.io/vendor/bundle/ruby/3.2.0/gems/commonmarker-0.23.12/ext/commonmarker
 make DESTDIR\= sitearchdir\=./.gem.20260109-17546-92dlg3 sitelibdir\=./.gem.20260109-17546-92dlg3 clean
 
-current directory: /Users/daniil/Documents/others/daniil/webcv/daniilmelnichenko.github.io/vendor/bundle/ruby/3.2.0/gems/commonmarker-0.23.12/ext/commonmarker
+current directory: /Users/daniil/Documents/others/daniil/webcv/daniil-melnichenko.github.io/vendor/bundle/ruby/3.2.0/gems/commonmarker-0.23.12/ext/commonmarker
 make DESTDIR\= sitearchdir\=./.gem.20260109-17546-92dlg3 sitelibdir\=./.gem.20260109-17546-92dlg3
 compiling arena.c
 compiling autolink.c
@@ -84,9 +84,9 @@ compiling xml.c
 linking shared-object commonmarker/commonmarker.bundle
 ld: warning: duplicate -rpath '/Users/daniil/miniconda3/envs/apple/lib' ignored
 
-current directory: /Users/daniil/Documents/others/daniil/webcv/daniilmelnichenko.github.io/vendor/bundle/ruby/3.2.0/gems/commonmarker-0.23.12/ext/commonmarker
+current directory: /Users/daniil/Documents/others/daniil/webcv/daniil-melnichenko.github.io/vendor/bundle/ruby/3.2.0/gems/commonmarker-0.23.12/ext/commonmarker
 make DESTDIR\= sitearchdir\=./.gem.20260109-17546-92dlg3 sitelibdir\=./.gem.20260109-17546-92dlg3 install
 /usr/bin/install -c -m 0755 commonmarker.bundle ./.gem.20260109-17546-92dlg3/commonmarker
 
-current directory: /Users/daniil/Documents/others/daniil/webcv/daniilmelnichenko.github.io/vendor/bundle/ruby/3.2.0/gems/commonmarker-0.23.12/ext/commonmarker
+current directory: /Users/daniil/Documents/others/daniil/webcv/daniil-melnichenko.github.io/vendor/bundle/ruby/3.2.0/gems/commonmarker-0.23.12/ext/commonmarker
 make DESTDIR\= sitearchdir\=./.gem.20260109-17546-92dlg3 sitelibdir\=./.gem.20260109-17546-92dlg3 clean
